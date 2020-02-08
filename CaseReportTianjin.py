@@ -181,13 +181,13 @@ def getHistoryReports():
     
 def main():
     
-    # (1) get news titles in the news release pages
+    # (1) get all news titles in the news release pages
     getAllNewsUrls()
     
     # OPTIONAL： get history reports (for the first-time run) 
     getHistoryReports()
     
-    # (2) get today's report 
+    # (2) get latest report 
     getLatestReport()
     
     
