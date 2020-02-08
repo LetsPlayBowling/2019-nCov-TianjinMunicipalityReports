@@ -9,4 +9,4 @@
 
 http://www.tj.gov.cn/xw/ztzl/tjsyqfk/yqtb/
 
-Including: A Python script: a webpage crawler, acuqire the related reports. The txt files: reports (in chinese).
+Including: A Python script: a webpage crawler, to acuqire the related reports. The txt files: reports (in chinese).
