@@ -91,15 +91,11 @@ def getAllNewsUrls():
                         temp_url = 'bdyw/'+ temp_url[2]
                         latest_page_url = ('http://www.tj.gov.cn/xw/' + 
                           temp_url + '.html')
-                    file2.write(date+'\t' + title + '\t' + latest_page_url + '\n')
-                    
-                    
+                    file2.write(date+'\t' + title + '\t' + latest_page_url + '\n')                                       
         finally:
             file1.close()
             file2.close()
         os.remove('RawPage_'+ strTodayDate + '.txt') 
-
-
   
 def getLatestReport():
     # (1) get latest report url 
