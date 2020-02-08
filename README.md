@@ -5,7 +5,7 @@
 
 信息来源 Information source:
 
-天津市人民政府官方网站(最新疫情通报页) Tianjin Munnicipal People's government , official website:
+天津市人民政府官方网站(最新疫情通报页) Tianjin Munnicipal People's Government , official website:
 
 http://www.tj.gov.cn/xw/ztzl/tjsyqfk/yqtb/
 
