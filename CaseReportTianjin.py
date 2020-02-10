@@ -10,9 +10,6 @@ Tianjin（天津）municipality people's government, official website: (最新�
     
 manual:
     to get latest reports, you can run this script everyday. 
-    the reports will be saved in the current folder as txt files.
-    after the first run, you should comment the OPTIONAL line in the main function.
-    (在第一次跑完此代码获取历史数据之后，请将main函数里OPITIONAL的那一行前加#，注释掉。)
     
 @author: RAY 
 
